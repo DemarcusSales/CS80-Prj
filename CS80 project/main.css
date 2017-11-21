@@ -1,0 +1,140 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: Sans-Serif;
+	line-height: 1.5em;
+	background-color: #c0c0c0;
+	width: 100%;
+}
+			
+#header {
+	position: fixed;
+	background-color: #5fb8d6;
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+	text-align: center;
+
+}
+			
+#header h1 {
+	margin: 0;
+}
+			
+main {
+	padding-bottom: 100px;
+	margin-bottom: -100px;
+	width: 100%;
+}
+			
+#nav {
+	padding-bottom: 10010px;
+	margin-bottom: -10000px;
+	float: left;
+	width: 230px;
+	margin-left: -100%;
+	background: #eee;
+}
+			
+#footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #5fb8d6;
+	text-align: center;
+	padding: 4px 0;
+}
+	
+#wrapper {
+	position: relative;
+	top: 100px;
+	width: 100%;
+}
+						
+#content {
+	margin: auto;
+}
+			
+.innertube {
+	margin: 15px; /* Padding for content */
+	margin-top: 0;
+}
+		
+p {
+	color: #555;
+}
+	
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+			
+nav ul a {
+	color: darkgreen;
+	text-decoration: none;
+}
+
+.playArea {
+	text-align: center;
+	position: relative;
+}
+
+#cowardsWayOut {
+	
+	width: 190px;	
+}
+
+#box {
+	display: block;
+	width: 100%;
+	border-bottom-style: solid;
+	border-bottom-width: medium;
+	padding-bottom: 2%;
+}
+
+button {
+	background-color: #ff8c1a;
+	border-color: #ffffff;
+	border-style: solid;
+	border-width: thin;
+	font-family: Open Sans;
+	font-weight: bold;
+	color: #f4f4f4; 
+}
+
+#rules {
+	width: 33%;
+	float: left;
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
